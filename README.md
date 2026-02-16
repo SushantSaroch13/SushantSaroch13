@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/sushantsaroch">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
 </a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=SushantSaroch13&style=for-the-badge">
 </p>
 
 ---
@@ -43,14 +43,27 @@
 
 ## ⚡ Embedded & Hardware
 
+<p>
+<img src="https://skillicons.dev/icons?i=arduino" />
+<img src="https://img.shields.io/badge/ESP32-Microcontroller-red?style=for-the-badge&logo=espressif&logoColor=white">
+</p>
+
 * ESP32 / Arduino
 * RTOS (Basics)
 * UART, SPI, I2C, RS-485
 * Sensors & Actuators
-* PCB Design (KiCad)
 * BLDC Motor Control
 * Power Electronics
 * DC-DC Converters
+
+## 🖥️ PCB Design
+
+<p>
+<img src="https://img.shields.io/badge/KiCad-PCB%20Design-blue?style=for-the-badge&logo=kicad&logoColor=white">
+</p>
+
+* KiCad Schematic & Layout Design
+* Hardware Prototyping
 
 ## 🛠️ Tools & Platforms
 
@@ -82,7 +95,17 @@
 
 * Real-time EV monitoring using **ESP32 + SIM800L + RS-485 + Firebase**
 * Designed **custom BLDC inverter** with IR2110 gate drivers (100 kHz)
-* High-efficiency **buck converter simulation** in LTSpice
+* High-efficiency **buck converter** simulation in LTSpice
+
+---
+
+# 🔬 Research & Publications
+
+📄 **IEEE Conference Paper — ICRERA 2025 (Vienna, Austria)**
+
+**Solar Power Forecasting for EV Charging Systems using Machine Learning**
+
+👉 https://ieeexplore.ieee.org/document/11283723
 
 ---
 
@@ -97,15 +120,6 @@
 
 ---
 
-# 🔬 Research & Publications
-
-📄 IEEE Conference Publication
-**ICRERA 2025 — Vienna, Austria**
-
-Topic: Solar Power Forecasting for EV Charging Systems using Machine Learning
-
----
-
 # 🏆 Achievements
 
 🥇 Academic Excellence Award — Director, MIET Jammu
@@ -116,12 +130,12 @@ Topic: Solar Power Forecasting for EV Charging Systems using Machine Learning
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=SushantSaroch13&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SushantSaroch13&theme=tokyonight&hide_border=true" height="170">
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6">
+<img src="https://github-profile-trophy.vercel.app/?username=SushantSaroch13&theme=tokyonight&no-frame=true&row=1&column=6">
 </p>
 
 ---
