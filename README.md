@@ -78,17 +78,6 @@ Electronics & Communication Engineer (AI & ML) | Embedded Systems • IoT • Po
 
 ---
 
-# 🚀 About Me
-
-* 🎓 B.Tech **Electronics & Communication Engineering (AI & ML)** — CGPA **8.9/10**
-* 🔬 Research experience in **Solar Forecasting, EV Systems & Machine Learning**
-* ⚡ Strong expertise in **Embedded Systems, IoT & Power Electronics**
-* 🧠 Passionate about **Intelligent Hardware + AI Integration**
-* 📡 Experience with **real-time monitoring systems & industrial automation**
-* 🌍 India
-
----
-
 # 🧠 Technical Skills
 
 ## 💻 Programming
